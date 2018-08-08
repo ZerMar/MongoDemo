@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "ConnectionTest";
+
+}
+
+<h2>ConnectionTest</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @if (TempData["Message"] != null)
+        {
+            @TempData["Message"]
+        }
+    </div>
+}
