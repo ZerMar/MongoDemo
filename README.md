@@ -1,20 +1,14 @@
 # Introduction
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
-
+  This application used .NET 4.7 MVC-5 and MongoDB at the backend.
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process: Needs to create a Mongo db called 'CarDatabase'. And run the proram and enter list of cars using the UI.
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+1.	Installation process: Needs to create a MongoDB Locally called 'CarDatabase'. And run the application, enter list of cars using the UI     and display it in the details page.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+2. Techonolgy used:
+   This application used: MongoDB ( with locally created database name 'CarDatabase')
+   FYI: ReactJS and .Net Core is not used in this application.
+        The MongoDB link given in the instruction is not used.
+        
+        There was very limited time and being novice for MongoDB, I prefer to submit something that shows my effort.
+   
+   
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
